@@ -11,6 +11,7 @@ public class Love {
 		System.out.println("故事-续集");
 
 		System.out.println("故事-续集2");
+		System.out.println("故事-续集4");
 	}
 
 }
